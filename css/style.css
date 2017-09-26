@@ -1,0 +1,84 @@
+body{
+	background-image: url("afbeeldingen/bake.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+h1{
+	color: #33FF6B;
+    text-align: center;
+    font-family: arial;
+    font-size: 25px;
+    
+}
+
+section.zin{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #3FFF33;
+}
+
+p.pee{
+	font-family: arial;
+	font-size: 20px;
+	color: #FDFEFE;
+	width: 400px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+img.baklava{
+	width: 220px;
+	height: 200px;
+	margin-left: 550px;
+
+}
+
+div.box{
+	width: 300px;
+    margin-left: 50px;
+    float: left;
+    border: 10px solid green;
+    height: 200px;
+   
+}
+
+ul.honing{
+	font-family: arial;
+	font size: 20px;
+	color: white;
+	text-align: 
+}
+
+h2.siroop{
+	font-family: arial;
+	font-size: 25px;
+	color: white;
+	margin-left: 5%;
+}
+
+div.vul{
+	width: 300px;
+	float: right;
+	border: 10px solid green;
+	height: 230px;
+}
+
+h3.fill{
+	font-family: arial;
+	font-size: 25px;
+	color: white;
+	margin-left: 7%;
+}
+
+ul.vulling{
+	font-family: arial;
+	font size: 20px;
+	color: white;
+	text-align: 
+}
+
+
